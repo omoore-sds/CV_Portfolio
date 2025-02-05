@@ -4,7 +4,7 @@ Welcome to my portfolio repository! This collection highlights my technical writ
 # About My Work
 
 ## Biotechnology Documentation
-<h5>I specialize in creating user-centric documentation for cutting-edge biotechnological tools and workflows. My portfolio includes detailed user guides for biological engineers, covering metagenomic discovery, prototyping, and optimization processes. Additionally, I have designed onboarding materials tailored to specialized teams working in RNA research, cell therapy, gene editing, and gene therapy, ensuring that all users can quickly and effectively adopt new technologies and systems, regardless of their expertise.
+I specialize in creating user-centric documentation for cutting-edge biotechnological tools and workflows. My portfolio includes detailed user guides for biological engineers, covering metagenomic discovery, prototyping, and optimization processes. Additionally, I have designed onboarding materials tailored to specialized teams working in RNA research, cell therapy, gene editing, and gene therapy, ensuring that all users can quickly and effectively adopt new technologies and systems, regardless of their expertise.
 
 ## Invention Summaries for Licensing
 I have extensive experience crafting invention summaries aimed at licensing groundbreaking technologies. These summaries distill complex inventions into concise, compelling narratives that highlight their unique value, potential applications, and advantages. My work ensures that inventors can effectively communicate the significance of their innovations to attract potential licensees, partners, and stakeholders.
